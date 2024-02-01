@@ -1,0 +1,32 @@
+.card {
+    border-radius: 4px;
+    margin: 21px 5rem;
+    margin-bottom:31px;  
+}
+.card-body{
+    background-color: rgb(98, 98, 133);
+   
+}
+
+h4 {
+    color: #333;
+}
+
+h5 {
+    color: #302929;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: whitesmoke;
+    background-color: rgb(0 0 34);
+    height: 60px;
+    transition: 0.5s;
+    list-style: none;
+    
+}
+nav :hover{
+    color: #0ef;
+}
+

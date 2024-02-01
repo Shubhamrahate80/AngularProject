@@ -1,0 +1,29 @@
+.card {
+    border-radius: 5px;
+    margin: 39px 20rem; 
+}
+.card-body{
+    background-color:rgb(98, 98, 133);
+    margin-bottom: 1px;
+}
+button{
+    background-color:rgb(255, 255, 170);
+}
+button:hover{
+    background-color: whitesmoke;
+    transition: 0.5s;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: whitesmoke;
+    background-color: rgb(0 0 34);
+    height: 70px;
+    transition: 0.5s;
+    list-style: none;
+    
+}
+nav :hover{
+    color: #0ef;
+}
